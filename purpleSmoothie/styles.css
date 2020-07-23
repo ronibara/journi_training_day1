@@ -1,0 +1,20 @@
+#num1 {
+    background-color: orange;
+}
+
+#num2 {
+    background-color: fuchsia;
+}
+
+#num3 {
+    background-color: blueviolet;
+}
+
+.col-md-4 {
+    padding: 30px;
+    border: 30px;
+}
+.card-deck {
+    padding: 30px;
+    border: 30px;
+}
